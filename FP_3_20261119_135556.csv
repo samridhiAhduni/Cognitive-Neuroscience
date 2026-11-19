@@ -1,0 +1,15 @@
+participant,trial,story_id,version,question_type,question,response,correct_answer,correct,rt,reading_time,correct_side,timestamp
+3,0,0,Practice,control,Where did Tom hide the present?,In his wardrobe,In his wardrobe,1,1.8001,10.668,right,2026-11-19 13:56:14
+3,0,0,Practice,tom,Is it more likely that Ella knew or didn't know that Tom had bought her a present?,Didn't know,Knew,0,2.5103,10.668,left,2026-11-19 13:56:14
+3,1,4,KnowledgeImplied,control,Where did Jim invite his colleagues?,At the new restaurant,At the new restaurant,1,2.679,8.882,left,2026-11-19 13:56:32
+3,1,4,KnowledgeImplied,tom,Is it more likely that Ann knew or didn't know that the new restaurant belonged to Jim’s parents?,Didn't know,Knew,0,2.2611,8.882,right,2026-11-19 13:56:32
+3,2,6,KnowledgeImplied,control,Who was working at the café?,Emma,Emma,1,2.0772,13.228,right,2026-11-19 13:56:51
+3,2,6,KnowledgeImplied,tom,Is it more likely that Emma knew or didn't know that Gareth wrote the song on the radio?,Knew,Knew,1,1.2244,13.228,right,2026-11-19 13:56:51
+3,3,3,FauxPas,control,Where was Jeremy’s car parked?,In front of his office,In front of his office,1,2.5226,13.991,left,2026-11-19 13:57:09
+3,3,3,FauxPas,tom,Is it more likely that Sophie knew or didn't know that the car was Jeremy’s?,Didn't know,Didn't know,1,1.0562,13.991,left,2026-11-19 13:57:09
+3,4,5,FauxPas,control,What gift had Jane bought her brother for Christmas?,Sweets,Sweets,1,2.1778,8.016,right,2026-11-19 13:57:21
+3,4,5,FauxPas,tom,Is it more likely that Matt knew or didn't know that Jane had bought him sweets?,Knew,Didn't know,0,7.3346,8.016,right,2026-11-19 13:57:21
+3,5,1,FauxPas,control,Where were Michael and Amanda?,A school reunion,A school reunion,1,1.2926,13.76,right,2026-11-19 13:57:45
+3,5,1,FauxPas,tom,Is it more likely that Amanda knew or didn't know that Michael was the boy from her English class?,Didn't know,Didn't know,1,1.0463,13.76,right,2026-11-19 13:57:45
+3,6,2,KnowledgeImplied,control,Where did Olivia hang Laura’s painting?,In the living room,In the living room,1,1.3017,10.126,right,2026-11-19 13:57:58
+3,6,2,KnowledgeImplied,tom,Is it more likely that Olivia’s son knew or didn't know that Laura painted the painting?,Didn't know,Knew,0,2.8581,10.126,left,2026-11-19 13:57:58
