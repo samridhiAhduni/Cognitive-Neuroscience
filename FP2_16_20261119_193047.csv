@@ -1,0 +1,15 @@
+participant,trial,story_id,version,question_type,question,response,correct_answer,correct,rt,reading_time,correct_side,script_version,timestamp
+16,0,0,Practice,control,Where did Tom hide the present?,In his wardrobe,In his wardrobe,1,5.1656,10.486,left,v2,2026-11-19 19:31:11
+16,0,0,Practice,tom,Is it more likely that Ella knew or didn't know that Tom had bought her a present?,Knew,Knew,1,2.1444,10.486,right,v2,2026-11-19 19:31:11
+16,1,1,KnowledgeImplied,control,Where were Michael and Amanda?,At a school reunion,At a school reunion,1,8.6728,6.657,left,v2,2026-11-19 19:31:38
+16,1,1,KnowledgeImplied,tom,Is it more likely that Amanda knew or didn't know that Michael was the boy from her English class?,Knew,Knew,1,1.3892,6.657,right,v2,2026-11-19 19:31:38
+16,2,4,FauxPas,control,Where did Jim invite his colleagues?,At his parents' new restaurant,At his parents' new restaurant,1,1.9759,6.897,right,v2,2026-11-19 19:31:56
+16,2,4,FauxPas,tom,Is it more likely that Ann knew or didn't know that the new restaurant belonged to Jim’s parents?,Didn't know,Didn't know,1,1.3856,6.897,left,v2,2026-11-19 19:31:56
+16,3,2,FauxPas,control,Where did Olivia hang Laura’s painting?,In her living room,In her living room,1,1.3195,27.885,left,v2,2026-11-19 19:32:28
+16,3,2,FauxPas,tom,Is it more likely that Olivia’s son knew or didn't know that Laura painted the painting?,Didn't know,Didn't know,1,4.5783,27.885,right,v2,2026-11-19 19:32:28
+16,4,6,FauxPas,control,Who was working at the café?,Emma,Emma,1,1.3167,7.42,right,v2,2026-11-19 19:32:42
+16,4,6,FauxPas,tom,Is it more likely that Emma knew or didn't know that Gareth wrote the song on the radio?,Didn't know,Didn't know,1,0.8885,7.42,right,v2,2026-11-19 19:32:42
+16,5,3,KnowledgeImplied,control,Where was Jeremy’s car parked?,Directly in front of his office,Directly in front of his office,1,4.4719,5.884,left,v2,2026-11-19 19:32:51
+16,5,3,KnowledgeImplied,tom,Is it more likely that Sophie knew or didn't know that the car was Jeremy’s?,Knew,Knew,1,1.8531,5.884,left,v2,2026-11-19 19:32:51
+16,6,5,KnowledgeImplied,control,What gift had Jane bought her brother for Christmas?,A big box of sweets,A big box of sweets,1,1.0831,12.017,right,v2,2026-11-19 19:33:10
+16,6,5,KnowledgeImplied,tom,Is it more likely that Matt knew or didn't know that Jane had bought him sweets?,Knew,Knew,1,3.7273,12.017,left,v2,2026-11-19 19:33:10

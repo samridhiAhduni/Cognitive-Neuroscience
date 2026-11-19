@@ -1,0 +1,15 @@
+participant,trial,story_id,version,question_type,question,response,correct_answer,correct,rt,reading_time,correct_side,script_version,timestamp
+9,0,0,Practice,control,Where did Tom hide the present?,In his wardrobe,In his wardrobe,1,1.9759,6.847,left,v2,2026-11-19 19:14:29
+9,0,0,Practice,tom,Is it more likely that Ella knew or didn't know that Tom had bought her a present?,Knew,Knew,1,0.4482,6.847,right,v2,2026-11-19 19:14:29
+9,1,4,KnowledgeImplied,control,Where did Jim invite his colleagues?,At his parents' new restaurant,At his parents' new restaurant,1,2.1758,6.681,right,v2,2026-11-19 19:14:44
+9,1,4,KnowledgeImplied,tom,Is it more likely that Ann knew or didn't know that the new restaurant belonged to Jim’s parents?,Knew,Knew,1,0.9272,6.681,right,v2,2026-11-19 19:14:44
+9,2,5,FauxPas,control,What gift had Jane bought her brother for Christmas?,A big box of sweets,A big box of sweets,1,1.1911,13.734,left,v2,2026-11-19 19:15:01
+9,2,5,FauxPas,tom,Is it more likely that Matt knew or didn't know that Jane had bought him sweets?,Didn't know,Didn't know,1,0.9182,13.734,left,v2,2026-11-19 19:15:01
+9,3,6,KnowledgeImplied,control,Who was working at the café?,Emma,Emma,1,1.5923,9.126,right,v2,2026-11-19 19:15:13
+9,3,6,KnowledgeImplied,tom,Is it more likely that Emma knew or didn't know that Gareth wrote the song on the radio?,Knew,Knew,1,2.0215,9.126,right,v2,2026-11-19 19:15:13
+9,4,2,KnowledgeImplied,control,Where did Olivia hang Laura’s painting?,In her living room,In her living room,1,1.3941,12.494,right,v2,2026-11-19 19:15:30
+9,4,2,KnowledgeImplied,tom,Is it more likely that Olivia’s son knew or didn't know that Laura painted the painting?,Knew,Knew,1,3.8692,12.494,left,v2,2026-11-19 19:15:30
+9,5,3,FauxPas,control,Where was Jeremy’s car parked?,Directly in front of his office,Directly in front of his office,1,1.6992,14.351,left,v2,2026-11-19 19:15:50
+9,5,3,FauxPas,tom,Is it more likely that Sophie knew or didn't know that the car was Jeremy’s?,Didn't know,Didn't know,1,0.9269,14.351,right,v2,2026-11-19 19:15:50
+9,6,1,FauxPas,control,Where were Michael and Amanda?,At a school reunion,At a school reunion,1,1.1782,8.341,left,v2,2026-11-19 19:16:02
+9,6,1,FauxPas,tom,Is it more likely that Amanda knew or didn't know that Michael was the boy from her English class?,Didn't know,Didn't know,1,0.8093,8.341,left,v2,2026-11-19 19:16:02

@@ -1,0 +1,15 @@
+participant,trial,story_id,version,question_type,question,response,correct_answer,correct,rt,reading_time,correct_side,script_version,timestamp
+14,0,0,Practice,control,Where did Tom hide the present?,In his wardrobe,In his wardrobe,1,1.2509,5.071,left,v2,2026-11-19 19:24:26
+14,0,0,Practice,tom,Is it more likely that Ella knew or didn't know that Tom had bought her a present?,Didn't know,Knew,0,2.8252,5.071,right,v2,2026-11-19 19:24:26
+14,1,4,FauxPas,control,Where did Jim invite his colleagues?,At his parents' new restaurant,At his parents' new restaurant,1,1.3725,6.871,right,v2,2026-11-19 19:24:48
+14,1,4,FauxPas,tom,Is it more likely that Ann knew or didn't know that the new restaurant belonged to Jim’s parents?,Didn't know,Didn't know,1,0.7487,6.871,left,v2,2026-11-19 19:24:48
+14,2,6,FauxPas,control,Who was working at the café?,Emma,Emma,1,1.1012,5.202,right,v2,2026-11-19 19:24:56
+14,2,6,FauxPas,tom,Is it more likely that Emma knew or didn't know that Gareth wrote the song on the radio?,Didn't know,Didn't know,1,1.3806,5.202,left,v2,2026-11-19 19:24:56
+14,3,1,KnowledgeImplied,control,Where were Michael and Amanda?,At a school reunion,At a school reunion,1,1.5564,7.325,left,v2,2026-11-19 19:25:07
+14,3,1,KnowledgeImplied,tom,Is it more likely that Amanda knew or didn't know that Michael was the boy from her English class?,Knew,Knew,1,0.7426,7.325,right,v2,2026-11-19 19:25:07
+14,4,3,KnowledgeImplied,control,Where was Jeremy’s car parked?,Directly in front of his office,Directly in front of his office,1,1.2772,6.949,left,v2,2026-11-19 19:25:17
+14,4,3,KnowledgeImplied,tom,Is it more likely that Sophie knew or didn't know that the car was Jeremy’s?,Knew,Knew,1,0.8514,6.949,right,v2,2026-11-19 19:25:17
+14,5,5,KnowledgeImplied,control,What gift had Jane bought her brother for Christmas?,A big box of sweets,A big box of sweets,1,11.7878,6.595,left,v2,2026-11-19 19:25:26
+14,5,5,KnowledgeImplied,tom,Is it more likely that Matt knew or didn't know that Jane had bought him sweets?,Didn't know,Knew,0,3.5641,6.595,left,v2,2026-11-19 19:25:26
+14,6,2,FauxPas,control,Where did Olivia hang Laura’s painting?,In her living room,In her living room,1,1.0799,5.364,right,v2,2026-11-19 19:25:47
+14,6,2,FauxPas,tom,Is it more likely that Olivia’s son knew or didn't know that Laura painted the painting?,Didn't know,Didn't know,1,0.8794,5.364,right,v2,2026-11-19 19:25:47

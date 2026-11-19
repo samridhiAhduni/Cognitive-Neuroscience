@@ -1,0 +1,15 @@
+participant,trial,story_id,version,question_type,question,response,correct_answer,correct,rt,reading_time,correct_side,script_version,timestamp
+1,0,0,Practice,control,Where did Tom hide the present?,In his wardrobe,In his wardrobe,1,3.8145,9.708,left,v2,2026-11-19 18:10:52
+1,0,0,Practice,tom,Is it more likely that Ella knew or didn't know that Tom had bought her a present?,Knew,Knew,1,2.7868,9.708,right,v2,2026-11-19 18:10:52
+1,1,4,KnowledgeImplied,control,Where did Jim invite his colleagues?,At his parents' new restaurant,At his parents' new restaurant,1,8.1606,9.015,left,v2,2026-11-19 18:11:16
+1,1,4,KnowledgeImplied,tom,Is it more likely that Ann knew or didn't know that the new restaurant belonged to Jim’s parents?,Knew,Knew,1,1.8698,9.015,right,v2,2026-11-19 18:11:16
+1,2,3,FauxPas,control,Where was Jeremy’s car parked?,Directly in front of his office,Directly in front of his office,1,1.925,11.203,right,v2,2026-11-19 18:11:38
+1,2,3,FauxPas,tom,Is it more likely that Sophie knew or didn't know that the car was Jeremy’s?,Didn't know,Didn't know,1,1.8749,11.203,left,v2,2026-11-19 18:11:38
+1,3,1,FauxPas,control,Where were Michael and Amanda?,At a school reunion,At a school reunion,1,1.5799,12.179,right,v2,2026-11-19 18:11:55
+1,3,1,FauxPas,tom,Is it more likely that Amanda knew or didn't know that Michael was the boy from her English class?,Didn't know,Didn't know,1,1.9395,12.179,right,v2,2026-11-19 18:11:55
+1,4,2,KnowledgeImplied,control,Where did Olivia hang Laura’s painting?,In her living room,In her living room,1,2.1422,6.665,left,v2,2026-11-19 18:12:05
+1,4,2,KnowledgeImplied,tom,Is it more likely that Olivia’s son knew or didn't know that Laura painted the painting?,Didn't know,Knew,0,1.4284,6.665,right,v2,2026-11-19 18:12:05
+1,5,5,FauxPas,control,What gift had Jane bought her brother for Christmas?,A big box of sweets,A big box of sweets,1,2.1276,8.024,right,v2,2026-11-19 18:12:18
+1,5,5,FauxPas,tom,Is it more likely that Matt knew or didn't know that Jane had bought him sweets?,Didn't know,Didn't know,1,1.2779,8.024,left,v2,2026-11-19 18:12:18
+1,6,6,KnowledgeImplied,control,Who was working at the café?,Emma,Emma,1,1.7619,8.584,left,v2,2026-11-19 18:12:30
+1,6,6,KnowledgeImplied,tom,Is it more likely that Emma knew or didn't know that Gareth wrote the song on the radio?,Knew,Knew,1,2.2214,8.584,left,v2,2026-11-19 18:12:30
